@@ -27,7 +27,6 @@ int main()
             else printf("Invalid Token\n");
             break;
         
-
         case 2:
             if(current == 'a') state = 3;
             else if(current == 'b') state = 2;
